@@ -25,3 +25,8 @@ Esercizi, programmi, esami e simulazioni dei corsi di Unife
 └── README.md # Guida per la cartella del corso
 
 ```
+
+## Per contribuire
+
+Desideri aggiungere esercizi, appunti, simulazioni d'esame e contribuire al progetto?<br>
+Controlla la [guida](https://github.com/unife-notes/.github/blob/main/profile/CONTRIBUTING.md).
