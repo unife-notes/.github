@@ -1,10 +1,10 @@
 # Come contribuire
 
 Sono previste due modalità per contribuire al progetto:
-- Tramite l'utilizzo di Git e pull requests;
-- Contattando un admin.
+- [Tramite Git e pull requests](https://github.com/unife-notes/.github/blob/main/profile/CONTRIBUTING.MD#git-e-pull-requests);
+- [Contattando un admin](https://github.com/unife-notes/.github/blob/main/profile/CONTRIBUTING.MD#tramite-admin).
 
-## Git e Pull Requests
+## Git e Pull Requests (più apprezzato 😇)
 
 ### Fork
 
