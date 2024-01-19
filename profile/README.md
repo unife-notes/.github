@@ -8,13 +8,12 @@ Esercizi, programmi, esami e simulazioni dei corsi di Unife
 
 ├── 1-Anno
 │   ├── Insegnamento-A
-│   │   ├── Linguaggio-A
-|   │   │   ├── Pratica
-|   │   │   │   ├── Esercizi
-|   │   │   │   ├── Simulazioni
-│   │   │   ├── Teoria
-│   │   ├── Linguaggio-B
-│   │   ├── ...
+│   │   ├── Pratica
+│   │   │   ├── Appunti
+│   │   │   ├── Simulazioni
+│   │   ├── Teoria
+│   │   │   ├── Appunti
+│   │   │   ├── Simulazioni
 │   │   ├── README.md # Guida per la cartella dell'insegnamento
 │   ├── Insegnamento-B
 │   │   ├── ...
@@ -25,6 +24,8 @@ Esercizi, programmi, esami e simulazioni dei corsi di Unife
 └── README.md # Guida per la cartella del corso
 
 ```
+
+Le cartelle Pratica e Teoria possono essere omesse nel caso non fossero comprese nel piano di studi dell'insegnamento
 
 ## Per contribuire
 
